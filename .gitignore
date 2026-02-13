@@ -1,0 +1,4 @@
+# On garde le dataset csv, on ignore seulement les fichiers "poubelle" du système
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
